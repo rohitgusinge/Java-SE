@@ -22,4 +22,4 @@ class StringMethod
 			System.out.println(domain.startsWith("gmail"));  //To check domain is gmail or not
 		}
 }
-//Chech StringMethod.png for output
+//Chech StringMethod.png for output and how to run
