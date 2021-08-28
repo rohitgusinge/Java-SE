@@ -29,12 +29,11 @@ class PractiseSwitch2
 			case "SUB" :System.out.println("Substraction is "+(x-y));
 					break;
 			case "MUL" :System.out.println("Multiplication is "+(x*y));
-						break;
+					break;
 			case "DIV" :System.out.println("Division is "+(x/y));
 					break;
 			default: System.out.println("Invalid");
-
-					break;
+				 	break;
 		}
 	}
 }
